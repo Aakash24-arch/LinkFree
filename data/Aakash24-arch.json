@@ -1,0 +1,13 @@
+{
+"name" : "aakash verma",
+"type" : "personal",
+"bio": "computer science student",
+ "link" : [
+   {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/AakashV11151035",
+      "icon": "FaTwitter"
+    }
+   ]
+  
+}
